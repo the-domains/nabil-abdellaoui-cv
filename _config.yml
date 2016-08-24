@@ -1,20 +1,4 @@
-name: Nabil Abdellaoui CV
-favicon: null
-layout_spectrum: 0.4618414230644703
 typography_spectrum: 0.2784671161789447
-title: Nabil Abdellaoui - Data Scientist
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,21 @@ color:
   lightness: 0.822269347961992
   saturation: 0.3671733923256397
   rhythmicContrast: 0.5676278499886394
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4618414230644703
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Nabil Abdellaoui CV
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Nabil Abdellaoui - Data Scientist
+description: Data Scientist
 purpose: []
